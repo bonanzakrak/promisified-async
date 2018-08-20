@@ -1,5 +1,5 @@
 {
-  "name": "promise-async",
+  "name": "@bonanza/promiseasync",
   "description": "Promise bindings for async lib.",
   "homepage": "https://github.com/bonanzakrak/promise-async",
   "version": "0.2.0",
