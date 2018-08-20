@@ -7,18 +7,6 @@
 npm install promisified-async --save
 ```
 
-If you want to use in the browser (powered by [Browserify](http://browserify.org/)):
-
-```bash
-bower install promisified-async --save
-```
-
-and later link in your HTML:
-
-```html
-<script src="bower_components/promisified-async/dist/promisified-async.js"></script>
-```
-
 ## Usage
 
 ```js
