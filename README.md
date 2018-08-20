@@ -1,28 +1,28 @@
-# promise-async
+# promisified-async
 > Adds Promises bindings for async library. Works with callbacks as well.
 
 ## Install
 
 ```bash
-npm install promise-async --save
+npm install promisified-async --save
 ```
 
 If you want to use in the browser (powered by [Browserify](http://browserify.org/)):
 
 ```bash
-bower install promise-async --save
+bower install promisified-async --save
 ```
 
 and later link in your HTML:
 
 ```html
-<script src="bower_components/promise-async/dist/promise-async.js"></script>
+<script src="bower_components/promisified-async/dist/promisified-async.js"></script>
 ```
 
 ## Usage
 
 ```js
-const async = require('promise-async')
+const async = require('promisified-async')
 
 async.waterfall([
   function (callback) {
