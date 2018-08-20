@@ -1,16 +1,16 @@
 {
-  "name": "@bonanza/promise-async",
+  "name": "promisified-async",
   "description": "Promise bindings for async lib.",
-  "homepage": "https://github.com/bonanzakrak/promise-async",
+  "homepage": "https://github.com/bonanzakrak/promisified-async",
   "version": "0.3.0",
   "main": "./index.js",
   "author": {
     "email": "michal@webspirit.ie",
     "name": "Michal Galas"
   },
-  "repository": "bonanzakrak/promise-async",
+  "repository": "bonanzakrak/promisified-async",
   "bugs": {
-    "url": "https://github.com/bonanzakrak/promise-async/issues"
+    "url": "https://github.com/bonanzakrak/promisified-async/issues"
   },
   "keywords": [
     "async",
